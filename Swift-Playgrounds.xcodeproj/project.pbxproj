@@ -23,7 +23,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E61C4B621E4BFC0200E4E565 /* ASwiftTour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ASwiftTour.playground; sourceTree = "<group>"; };
+		572571DB1EBD7DE500FE686B /* BasicEssential.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicEssential.playground; sourceTree = "<group>"; };
+		E61C4B621E4BFC0200E4E565 /* ASwiftTour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ASwiftTour.playground; path = ../ASwiftTour.playground; sourceTree = "<group>"; };
 		E61C4B641E4BFC0200E4E565 /* 01-TheBasics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-TheBasics.playground"; sourceTree = "<group>"; };
 		E61C4B651E4BFC0200E4E565 /* 02-BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-BasicOperators.playground"; sourceTree = "<group>"; };
 		E61C4B661E4BFC0200E4E565 /* 03-StringsAndCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03-StringsAndCharacters.playground"; sourceTree = "<group>"; };
@@ -102,10 +103,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		572571DA1EBD7CDF00FE686B /* Swift Basic */ = {
+			isa = PBXGroup;
+			children = (
+				572571DB1EBD7DE500FE686B /* BasicEssential.playground */,
+			);
+			name = "Swift Basic";
+			sourceTree = "<group>";
+		};
 		E61C4B611E4BFC0200E4E565 /* The Swift Programming Language */ = {
 			isa = PBXGroup;
 			children = (
-				E61C4B621E4BFC0200E4E565 /* ASwiftTour.playground */,
 				E61C4B631E4BFC0200E4E565 /* LanguageGuide */,
 			);
 			path = "The Swift Programming Language";
@@ -114,6 +122,7 @@
 		E61C4B631E4BFC0200E4E565 /* LanguageGuide */ = {
 			isa = PBXGroup;
 			children = (
+				E61C4B621E4BFC0200E4E565 /* ASwiftTour.playground */,
 				E61C4B641E4BFC0200E4E565 /* 01-TheBasics.playground */,
 				E61C4B651E4BFC0200E4E565 /* 02-BasicOperators.playground */,
 				E61C4B661E4BFC0200E4E565 /* 03-StringsAndCharacters.playground */,
@@ -258,6 +267,7 @@
 		E6E1BED419401B3600DA4D53 /* Swift-Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
+				572571DA1EBD7CDF00FE686B /* Swift Basic */,
 				E61C4B611E4BFC0200E4E565 /* The Swift Programming Language */,
 				E6C330821E4C008E0000AA37 /* Using Swift With Cocoa And Objective-C */,
 				E6C330891E4C00A50000AA37 /* Swift Stanard Library */,
