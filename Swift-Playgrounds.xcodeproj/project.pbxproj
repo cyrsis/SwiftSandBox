@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		572571DB1EBD7DE500FE686B /* BasicEssential.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicEssential.playground; sourceTree = "<group>"; };
 		572571DC1EBD7F7C00FE686B /* ValueVsReferenceType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValueVsReferenceType.playground; sourceTree = "<group>"; };
+		579ADBF01EC3866200849977 /* VarVsLet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VarVsLet.playground; sourceTree = "<group>"; };
 		E61C4B621E4BFC0200E4E565 /* ASwiftTour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = ASwiftTour.playground; path = ../ASwiftTour.playground; sourceTree = "<group>"; };
 		E61C4B641E4BFC0200E4E565 /* 01-TheBasics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-TheBasics.playground"; sourceTree = "<group>"; };
 		E61C4B651E4BFC0200E4E565 /* 02-BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-BasicOperators.playground"; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 			children = (
 				572571DB1EBD7DE500FE686B /* BasicEssential.playground */,
 				572571DC1EBD7F7C00FE686B /* ValueVsReferenceType.playground */,
+				579ADBF01EC3866200849977 /* VarVsLet.playground */,
 			);
 			name = "Swift Basic";
 			sourceTree = "<group>";

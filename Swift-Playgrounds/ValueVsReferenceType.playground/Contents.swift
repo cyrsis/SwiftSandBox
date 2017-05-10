@@ -3,8 +3,9 @@
 import Cocoa
 
 // Reference Types is 
-//classes
-//Functions & Closure
+// -- classes
+// -- Functions 
+//& Closure
 // Pass as reference
 
 //Values Types are
