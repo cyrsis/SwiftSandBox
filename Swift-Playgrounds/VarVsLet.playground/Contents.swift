@@ -33,7 +33,25 @@ Double(int) * double * Double(float)
 
 let pi = Double.pi
 
-pi.rounded(.up)
+pi.rounded(.up) //
+
+let binaryTen = 0b01010
+let octalTen = 0o12
+let hexadecimalTen = 0xA
+let tweleenMillion = 1.2e7 //1.2 * 10^7
+
+let swiftIsAwesome = true
+
+
+let aquaRGb = (10,128,255) // Tuple
+
+typealias ColorValue = UInt8 //Can save you a day
+
+let whiteRGB = (ColorValue.max, ColorValue.max,ColorValue.min)
+
+let blackRGB = (ColorValue.min,ColorValue.min,ColorValue.min)
+
+
 
 
 

@@ -23,6 +23,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5720CF381EC46F0E0016D3DB /* DeferAssignment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DeferAssignment.playground; sourceTree = "<group>"; };
+		5720CF391EC478750016D3DB /* Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optional.playground; sourceTree = "<group>"; };
 		572571DB1EBD7DE500FE686B /* BasicEssential.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicEssential.playground; sourceTree = "<group>"; };
 		572571DC1EBD7F7C00FE686B /* ValueVsReferenceType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValueVsReferenceType.playground; sourceTree = "<group>"; };
 		579ADBF01EC3866200849977 /* VarVsLet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VarVsLet.playground; sourceTree = "<group>"; };
@@ -111,6 +113,8 @@
 				572571DB1EBD7DE500FE686B /* BasicEssential.playground */,
 				572571DC1EBD7F7C00FE686B /* ValueVsReferenceType.playground */,
 				579ADBF01EC3866200849977 /* VarVsLet.playground */,
+				5720CF381EC46F0E0016D3DB /* DeferAssignment.playground */,
+				5720CF391EC478750016D3DB /* Optional.playground */,
 			);
 			name = "Swift Basic";
 			sourceTree = "<group>";
